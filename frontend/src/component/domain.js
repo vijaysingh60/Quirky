@@ -1,2 +1,2 @@
-const url = "http://localhost:3001";
+const url = "https://quirky-4i7l.vercel.app";
 export default url;
